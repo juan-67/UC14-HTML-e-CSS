@@ -1,4 +1,3 @@
-
 public class CalculadoraViagem {
 
     public static double calcularCustoViagem(double passagem, double hospedagem, double alimentacao, double passeios) {
